@@ -20,6 +20,11 @@ Configuration pour vagrant via puppet.
 
     $ git clone git://github.com/Malekou/first-puppet.git
 
+
+<h2>Initialiser la box</h2>
+
+    $ vagrant up
+
 <h2>Creating new puppet module</h2>
 
 <p>To create a new module use this default template.</p>
