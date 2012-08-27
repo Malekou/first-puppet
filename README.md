@@ -24,6 +24,6 @@ Configuration pour vagrant via puppet.
 
 <p>To create a new module use this default template.</p>
 
-  $ mkdir –p /puppet_folder/modules/MODULE_NAME/{files,templates,manifests}
-  $ touch /puppet_folder/modules/MODULE_NAME/manifests/init.pp
+    $ mkdir –p /puppet_folder/modules/MODULE_NAME/{files,templates,manifests}
+    $ touch /puppet_folder/modules/MODULE_NAME/manifests/init.pp
 
