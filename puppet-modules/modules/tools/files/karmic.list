@@ -1,0 +1,21 @@
+#####################
+# Managed by Puppet #
+#####################
+
+# Positionner dans :
+# /etc/apt/sources.list.d/karmic.list
+
+deb http://old-releases.ubuntu.com/ubuntu/ karmic main universe multiverse restricted
+deb-src http://old-releases.ubuntu.com/ubuntu/ karmic main universe multiverse restricted
+
+deb http://old-releases.ubuntu.com/ubuntu/ karmic-updates main universe multiverse restricted
+deb-src http://old-releases.ubuntu.com/ubuntu/ karmic-updates main universe multiverse restricted
+
+# deb http://old-releases.ubuntu.com/ubuntu/ karmic-backports main restricted universe multiverse
+# deb-src http://old-releases.ubuntu.com/ubuntu/ karmic-backports main restricted universe multiverse
+
+# deb http://old-releases.canonical.com/ubuntu karmic partner
+# deb-src http://old-releases.canonical.com/ubuntu karmic partner
+
+deb http://old-releases.ubuntu.com/ubuntu karmic-security main universe multiverse restricted
+deb-src http://old-releases.ubuntu.com/ubuntu karmic-security main universe multiverse restricted
